@@ -1,0 +1,8 @@
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\Googlese\Google Translator\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\Googlese\Google Translator\obj\Debug\ConsoleApplication1.exe
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\Googlese\Google Translator\obj\Debug\ConsoleApplication1.pdb
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\Googlese\Google Translator\bin\Debug\ConsoleApplication1.exe
+C:\Users\aruna\Documents\Visual Studio 2012\Projects\Googlese\Google Translator\bin\Debug\ConsoleApplication1.pdb
